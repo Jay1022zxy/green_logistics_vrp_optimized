@@ -26,8 +26,6 @@
 
 ## 摘要流程图
 
-> 将流程图图片放在 `figures/paper/liuchengtu0.png` 后，GitHub 会自动显示。
-
 <p align="center">
   <img src="figures/paper/liuchengtu0.png" width="850" alt="整体流程图" />
 </p>
